@@ -7,7 +7,10 @@ This project presents a financial market analysis of Suzlon Energy Limited using
 The raw dataset was available in CSV format and was cleaned, transformed, and analyzed in Power BI to visualize price movements, trading volumes, and overall market performance.
 
 ---
+## 📊 Dashboard Preview
+![Suzlon Dashboard](images/financial-analysis.jpg)
 
+---
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** – Dashboard development and visualization

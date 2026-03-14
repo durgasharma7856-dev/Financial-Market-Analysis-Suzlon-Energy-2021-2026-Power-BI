@@ -8,10 +8,6 @@ The raw dataset was available in CSV format and was cleaned, transformed, and an
 
 ---
 
-## 📊 Dashboard Preview
-!
-
----
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** – Dashboard development and visualization
